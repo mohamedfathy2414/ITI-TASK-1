@@ -1,0 +1,41 @@
+
+.personalinfo
+{
+    width: 75%;
+    position: relative;
+    
+     border: solid 3px;
+     margin: auto;
+     padding: 10px;
+}
+
+h2
+{
+    background-color: aqua;
+}
+
+
+
+img
+{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top:  15%;
+    left: 70%;
+    
+
+
+}
+h3{
+    margin-left: 10px;
+}
+span
+{
+    margin: 25px;
+    
+}
+ h1
+{
+    color: blue;
+}
